@@ -1,6 +1,6 @@
 # kaggle_miscellaneous
 
-This is a repository where I plan to store code / materials related to past kaggle competitions. 
+This is a repository where I plan to store code / materials related to past Kaggle competitions. 
 Currently, here are the scripts of Santader Product Recommendation competition. 
 
 What I've done is described in detail here: 
